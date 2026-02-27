@@ -5,6 +5,12 @@ This project was developed as part of college coursework to demonstrate practica
 
 ---
 
+## Gameplay Preview
+
+![City Overview](Screenshots/Screenshot1.png)
+![Income UI](Screenshots/Screenshot2.png)
+![Building Placement](Screenshots/Screenshot3.png)
+
 ## Gameplay Overview
 
 Players build and grow a city by placing structures and decorative elements. As the city develops, it generates passive income and improves its overall rating.
